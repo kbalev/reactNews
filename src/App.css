@@ -10,10 +10,10 @@
 
 .NewsBox{
   width: 24%;
-  border: 1px black;
-  box-shadow: darkgray;
+  border: 1px solid black;
   opacity: 80%;
   transition: ease 0.5s;
+  padding: 4px;
 }
 
 img {
