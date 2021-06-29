@@ -11,7 +11,7 @@
 .NewsBox{
   width: 24%;
   border: 1px solid black;
-  opacity: 80%;
+  opacity: 0.8;
   transition: ease 0.5s;
   padding: 4px;
 }
@@ -21,7 +21,7 @@ img {
 }
 
 .NewsBox:hover{
-  opacity: 100%;
+  opacity: 1;
 }
 
 
