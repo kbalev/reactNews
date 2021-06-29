@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactNews/static/css/main.045606eb.chunk.css",
+    "main.js": "/reactNews/static/js/main.2f674a3b.chunk.js",
+    "main.js.map": "/reactNews/static/js/main.2f674a3b.chunk.js.map",
+    "runtime-main.js": "/reactNews/static/js/runtime-main.1df169aa.js",
+    "runtime-main.js.map": "/reactNews/static/js/runtime-main.1df169aa.js.map",
+    "static/js/2.3774502f.chunk.js": "/reactNews/static/js/2.3774502f.chunk.js",
+    "static/js/2.3774502f.chunk.js.map": "/reactNews/static/js/2.3774502f.chunk.js.map",
+    "static/js/3.b650d1a2.chunk.js": "/reactNews/static/js/3.b650d1a2.chunk.js",
+    "static/js/3.b650d1a2.chunk.js.map": "/reactNews/static/js/3.b650d1a2.chunk.js.map",
+    "index.html": "/reactNews/index.html",
+    "static/css/main.045606eb.chunk.css.map": "/reactNews/static/css/main.045606eb.chunk.css.map",
+    "static/js/2.3774502f.chunk.js.LICENSE.txt": "/reactNews/static/js/2.3774502f.chunk.js.LICENSE.txt",
+    "static/media/cityManFindsStars.807fc203.jpg": "/reactNews/static/media/cityManFindsStars.807fc203.jpg",
+    "static/media/jumpingYouths.77dfc95f.jpg": "/reactNews/static/media/jumpingYouths.77dfc95f.jpg",
+    "static/media/lostInForest.a8fabf8c.jpg": "/reactNews/static/media/lostInForest.a8fabf8c.jpg",
+    "static/media/waterWet.42789170.jpg": "/reactNews/static/media/waterWet.42789170.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1df169aa.js",
+    "static/js/2.3774502f.chunk.js",
+    "static/css/main.045606eb.chunk.css",
+    "static/js/main.2f674a3b.chunk.js"
+  ]
+}
