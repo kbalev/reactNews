@@ -1,0 +1,2 @@
+const waterStory = "BREAKING!!! Water has been proven to be wet. After several multi-decade longitudinal studies, several peer reviews and the biggest sample collection in history, Science can, with confidence, say that water is wet."
+export default waterStory

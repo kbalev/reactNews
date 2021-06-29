@@ -1,0 +1,2 @@
+const cityStory = "Local man drove out of the city and for the first time in his life, saw stars in the night sky. 'It was the most surreal experience in my life' says the man."
+export default cityStory
